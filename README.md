@@ -57,7 +57,7 @@ I’m a **Full Stack Developer** focused on:
 
 ⚠️ Backend may take time (Render free tier cold start)
 
-👉 Backend: https://naxocard-react-djano.onrender.com
+👉 Backend: https://naxocard-react-djano.onrender.com/admin/
 👉 Frontend: https://naxo-card-react-djano.vercel.app/
 
 <p align="center">
