@@ -10,7 +10,7 @@
 
 ---
 
-## 🧊 About Me (Glass Layer)
+## 🧊 About Me
 
 > Building scalable digital products with clean architecture and modern UI.
 
@@ -37,7 +37,7 @@ I’m a **Full Stack Developer** focused on:
 
 ---
 
-## 🚀 Featured Project (Main SEO Asset)
+## 🚀 Featured Project
 
 ### 🔥 NaxoCard — Django React eCommerce System
 
