@@ -1,0 +1,7 @@
+node_modules/
+package.json
+package-lock.json
+capture.js
+sites_info.json
+.DS_Store
+Thumbs.db
