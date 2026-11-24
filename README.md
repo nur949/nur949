@@ -1,32 +1,61 @@
 <div align="center">
 
 # Nur (`@nur949`)
-### Full-Stack Software Engineer & Web Architect
+### Senior Full-Stack Laravel Developer & AI Automation Engineer
 
 <p>
   <a href="https://github.com/nur949"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="mailto:nurjamalbabu949@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Projects-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Laravel-11%2B-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Active-10b981?style=flat-square" />
   <img src="https://img.shields.io/badge/Deployments-18%2B%20Live%20Sites-0284c7?style=flat-square" />
 </p>
 
 <p align="center">
-  Specialized in building high-performance e-commerce engines, robust corporate architectures, and responsive web applications.<br />
-  Clean code, zero-waste infrastructure, security-first engineering, and human-centered design.
+  Engineering robust enterprise web applications, high-throughput e-commerce platforms, and intelligent AI automation pipelines.<br />
+  Specialized in <b>Laravel ecosystem (Livewire 3, Alpine.js, Tailwind)</b>, scalable backend services, and autonomous agentic workflows.
 </p>
 
 ---
 
 </div>
 
-## 🛠️ Core Tech Stack
+## 🚀 Architectural Profile
+
+- **Full-Stack Laravel Engineering:** Production implementations utilizing Laravel 11+, PHP 8.2+, Thin Controllers, FormRequests, Service/Action classes, strict eager loading (`with()`), database transactions (`DB::transaction()`), and granular RBAC policies.
+- **Frontend Architecture:** Dynamic, reactive UIs built with Livewire 3 (`#[Computed]`, deferred bindings), Alpine.js for lightweight client state, and responsive Tailwind CSS layouts without heavy runtime overhead.
+- **AI & Intelligent Automation:** End-to-end LLM orchestration (Gemini, OpenAI, Claude), autonomous agent workflows, RAG systems, headless browser automation (Puppeteer/Playwright), background queue workers, and webhook-driven event automation.
+- **Production-Ready Systems:** 18+ commercial websites delivered across e-commerce, real estate, manufacturing, and logistics with seamless payment integrations (bKash, Nagad, Stripe, COD).
+
+---
+
+## 🛠️ Technical Stack & Tooling
 
 ```text
-Languages & Frameworks : Python, Django / DRF, JavaScript, React.js, Vite, Node.js, PHP, Tailwind CSS
-Databases & Storage    : PostgreSQL, MySQL, Redis, SQLite
-APIs & Integrations    : RESTful APIs, JWT Auth, Stripe, bKash, Nagad, Cash On Delivery Flows
-DevOps & Tooling       : Git, GitHub, Docker, Linux, Nginx, Vercel, Render
+Backend Engineering    : Laravel 11+, PHP 8.2+, Django REST Framework, Python, Node.js
+Frontend Development   : Livewire 3, Alpine.js, React.js, Blade Components, Vite, Tailwind CSS
+AI & Automation        : Gemini / OpenAI APIs, AI Agent Orchestration, Headless Puppeteer / Playwright, RAG Pipelines, Webhook Automation
+Databases & Storage    : MySQL (Indexing, Foreign Keys, Query Optimization), PostgreSQL, Redis
+Architecture & Security: Thin Controllers, Action/Service Pattern, Zero-Trust Input Validation, CSRF/XSS Hardening, JWT/Sanctum Auth
+DevOps & Cloud         : Git, GitHub Actions, Docker, Linux, Nginx, Vercel, Render, Automated Cron/Queue Workers
 ```
+
+---
+
+## 🤖 AI Automation & Intelligent Workflows
+
+```text
+┌─────────────────────────┐     ┌─────────────────────────┐     ┌─────────────────────────┐
+│   Data Ingestion / Web  │ ──> │   LLM Intelligence Core │ ──> │   Automated Execution   │
+│  (Puppeteer / Webhooks) │     │ (Gemini / OpenAI Agent) │     │ (DB, CRM, Queue Jobs)   │
+└─────────────────────────┘     └─────────────────────────┘     └─────────────────────────┘
+```
+
+- **Autonomous Agent Workflows:** Multi-step autonomous task runners for automated research, catalog extraction, and intelligent content categorization.
+- **Browser Automation & Scraping:** Headless Puppeteer and Playwright bots designed for resilient multi-viewport data extraction, automated testing, and visual verification.
+- **LLM API Integrations:** Custom function calling, structured JSON output validation (Pydantic / Zod / FormRequests), and calibrated automated decision engines.
+- **Business Process Automation:** Automated order synchronization, automated inventory updates, custom webhook dispatchers, and scheduled background workers.
 
 ---
 
@@ -372,22 +401,22 @@ A curated showcase of **18 production web applications and commercial platforms*
 
 ---
 
-## 📈 Engineering Philosophy
+## 📈 Engineering Standards & Practices
 
-- **Zero-Waste Architecture:** Minimal dependencies, native language capabilities over bloat, strict separation of concerns.
-- **Security-First API Design:** Zero-trust input sanitization, parameterized database queries, JWT token rotation, and robust RBAC.
-- **Performance Optimized:** Clean asset delivery, high lighthouse scores, lazy loading, and sub-second cold starts.
+- **Zero-Waste Laravel & Livewire:** Thin controllers delegating to domain actions, FormRequest boundary validation, eager loading (`with()`) eliminating N+1 queries by default, and index-optimized relational schemas.
+- **Intelligent Autonomous Automation:** Building resilient scrapers and task agents using Puppeteer/Playwright and LLM function calling with zero manual intervention loops.
+- **Zero-Trust Security:** Strict CSRF protection, secure `HttpOnly` sessions, parameterized database bindings, and bulletproof RBAC policies.
 
 ---
 
 ## 📬 Contact & Collaboration
 
-Looking for an experienced engineer to architect your next web application, SaaS system, or scalable e-commerce infrastructure?
+Looking for an experienced engineer to architect your Laravel web application, scalable e-commerce infrastructure, or automated AI workflow?
 
 - **Email:** [nurjamalbabu949@gmail.com](mailto:nurjamalbabu949@gmail.com)
 - **GitHub:** [@nur949](https://github.com/nur949)
-- **Location:** Bangladesh (Available for remote global contracts)
+- **Location:** Bangladesh (Available for global remote contracts)
 
 <div align="center">
-  <sub>Crafted with precision by <a href="https://github.com/nur949">Nur</a>. Built to scale.</sub>
+  <sub>Engineered with precision by <a href="https://github.com/nur949">Nur</a>. Built for production scale.</sub>
 </div>
